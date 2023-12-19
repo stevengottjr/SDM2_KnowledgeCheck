@@ -1,0 +1,15 @@
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\bin\Debug\net6.0\SDM2_KnowledgeCheck.exe
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\bin\Debug\net6.0\SDM2_KnowledgeCheck.deps.json
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\bin\Debug\net6.0\SDM2_KnowledgeCheck.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\bin\Debug\net6.0\SDM2_KnowledgeCheck.dll
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\bin\Debug\net6.0\SDM2_KnowledgeCheck.pdb
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.dll
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\refint\SDM2_KnowledgeCheck.dll
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.pdb
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\SDM2_KnowledgeCheck.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Documents\Projects\Projects_CK\Software2-Knowledge-Check-2\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\SDM2_KnowledgeCheck\obj\Debug\net6.0\ref\SDM2_KnowledgeCheck.dll
